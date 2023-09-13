@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/syllabus-javascript/static/css/main.073c9b0a.css",
+    "main.js": "/syllabus-javascript/static/js/main.e8fe750a.js",
+    "static/js/787.d91577a2.chunk.js": "/syllabus-javascript/static/js/787.d91577a2.chunk.js",
+    "index.html": "/syllabus-javascript/index.html",
+    "main.073c9b0a.css.map": "/syllabus-javascript/static/css/main.073c9b0a.css.map",
+    "main.e8fe750a.js.map": "/syllabus-javascript/static/js/main.e8fe750a.js.map",
+    "787.d91577a2.chunk.js.map": "/syllabus-javascript/static/js/787.d91577a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e8fe750a.js"
+  ]
+}
